@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "891128042797",
+    "firebase_url": "https://kuntrans-server-default-rtdb.firebaseio.com",
+    "project_id": "kuntrans-server",
+    "storage_bucket": "kuntrans-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891128042797:android:9ca51e4feffb43afe02fa4",
+        "android_client_info": {
+          "package_name": "com.example.kuntrans_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891128042797-hroin8obn5rfqm5qptqc11m6enhs6efq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PG1aLEpSrgpqu9iTNKN1MfCZVGg5Jes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891128042797-975cmg2ao9f10pti7rc6tngbco0v4qtj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891128042797-2ankv559ficf9jmf0t48r2bf6b70lhle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kuntransAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891128042797:android:5701e589689911d2e02fa4",
+        "android_client_info": {
+          "package_name": "com.kuntransport.kun_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891128042797-hroin8obn5rfqm5qptqc11m6enhs6efq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PG1aLEpSrgpqu9iTNKN1MfCZVGg5Jes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891128042797-975cmg2ao9f10pti7rc6tngbco0v4qtj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891128042797-2ankv559ficf9jmf0t48r2bf6b70lhle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kuntransAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
